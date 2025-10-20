@@ -20,3 +20,52 @@ Langston Huley, Ayodeji Williams, Zane Mottley
 
         Link: https://github.com/Zanelm03/Project1.git
         No content included
+
+## Project 2
+
+   a. Langston Huley
+
+      minutes
+
+
+      PBI
+
+             |           PBI            |          Status          |         Sprint        |         Estimate       |  Assigned    |  Reviewer |
+             | 3 Persona Descriptions   |  Implementation Stage    |   1 week              |    1 member            |   Zane       |   Dr. Hu  | 
+             |       Prototypes         |  Implementation Stage    |     1 week            |      1 member          |  Langston    |   Dr. Hu  |
+             |     User Stories         |  Implementation Stage    |     1 week            |      1 member          |  Ayodeji     |   Dr. Hu  |
+
+            Please re-do your PBI
+
+      Prototype
+
+                        
+      
+   b. Ayodeji WIlliams
+
+      minutes
+
+         Not provided
+
+      PBI
+
+         Not provided
+
+      Prototype
+
+         Not provided
+
+   c. Zane Motley
+
+      minutes
+
+         Not provided
+
+
+      PBI
+
+         Not provided
+
+      Prototype
+
+         Link: https://www.figma.com/make/D7dn1CZL3oPDcxs30Oaw0R/Refrigerator-Inventory-Tracker?node-id=0-1&t=DM25M7V4rQ668ssk-1
